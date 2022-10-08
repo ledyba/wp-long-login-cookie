@@ -5,6 +5,7 @@
  * Author: Kaede Fujisaki
  * Author URI: https://7io.org
  * Version: 1.0.0
+ * License: AGPLv3 or later
  */
 
 if( !function_exists( 'long_login_cookie' ) ) {
